@@ -35,13 +35,13 @@
     "title": "Sobre Nosotros",
     "items": [
       {
-        "title": "Productos",
-        "description": "En Accesorios Angel, nos dedicamos a crear accesorios y bisutería hechos a mano que reflejen tu estilo y personalidad únicos. Cada pieza es elaborada con atención al detalle y utilizando materiales de alta calidad para ofrecerte productos que no solo complementen tu look, sino que también cuenten una historia.",
+        "title": "¿Quién soy?",
+        "description": "Soy Ángel, tengo 7 años y soy un pequeño emprendedor con una gran pasión por crear accesorios únicos, que te hagan sentir único y especial. Cada pieza que creo lleva un pedacito de mi corazón y una pizca de magia. Me encanta ver cómo mis accesorios hacen que las personas se sientan bien cuando los llevan puestos.",
         "img": "/assets/images/2.png"
       },
       {
-        "title": "Conócenos",
-        "description": "Descubre nuestras colecciones y encuentra el accesorio perfecto para cada ocasión.",
+        "title": "Productos",
+        "description": "¿Quieres unirte a mí en este viaje lleno de creatividad y amor? Cada pieza es elaborada de manera personalizada, única y exclusiva que reflejan tu personalidad y estilo, cada una de nuestras piezas no solo elevan tu look, sino también cuentan una historia importante, tú historia.",
         "img": "/assets/images/3.png"
       }
     ]
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 310 2028377",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "bethcorreocentral@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@_accesoriosangel",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "_accesoriosangel",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
