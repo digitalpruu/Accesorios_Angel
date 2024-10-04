@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "@_accesoriosangel",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/_accesoriosangel"
       },
       {
         "name": "Facebook",
         "description": "_accesoriosangel",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/profile.php?id=61552176985326&mibextid=ZbWKwL"
       }
     ]
   },
